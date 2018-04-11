@@ -1,0 +1,7 @@
+﻿  decimal_converter.c
+e:\learning programming\c\practice\decimal convertor\decimal convertor\decimal_converter.c(40): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+e:\learning programming\c\practice\decimal convertor\decimal convertor\decimal_converter.c(77): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+e:\learning programming\c\practice\decimal convertor\decimal convertor\decimal_converter.c(74): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+e:\learning programming\c\practice\decimal convertor\decimal convertor\decimal_converter.c(31): warning C4715: 'convertNumToAcs': not all control paths return a value
+  decimal convertor.vcxproj -> E:\Learning programming\c\Practice\decimal convertor\Debug\decimal convertor.exe
